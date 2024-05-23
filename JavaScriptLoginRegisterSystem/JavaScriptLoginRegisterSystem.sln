@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaScriptLoginRegisterSystem", "JavaScriptLoginRegisterSystem.njsproj", "{9286EA88-57AF-466F-85A9-CB76B129B8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9286EA88-57AF-466F-85A9-CB76B129B8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9286EA88-57AF-466F-85A9-CB76B129B8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9286EA88-57AF-466F-85A9-CB76B129B8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9286EA88-57AF-466F-85A9-CB76B129B8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0A6707-FD7D-468A-97AC-971738BFC760}
+	EndGlobalSection
+EndGlobal

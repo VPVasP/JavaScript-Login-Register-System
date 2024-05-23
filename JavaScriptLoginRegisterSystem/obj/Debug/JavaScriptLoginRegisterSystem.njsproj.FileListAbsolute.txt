@@ -1,0 +1,3 @@
+C:\Users\vasil\Desktop\JavaScript\JavaScriptLoginRegisterSystem\JavaScript-Login-Register-System\JavaScriptLoginRegisterSystem\obj\Debug\JavaScriptLoginRegisterSystem.njsproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\JavaScript\JavaScriptLoginRegisterSystem\JavaScript-Login-Register-System\JavaScriptLoginRegisterSystem\obj\Debug\JavaScriptLoginRegisterSystem.njsproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\JavaScript\JavaScriptLoginRegisterSystem\JavaScript-Login-Register-System\JavaScriptLoginRegisterSystem\bin\Microsoft.NodejsTools.WebRole.dll
